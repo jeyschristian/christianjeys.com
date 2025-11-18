@@ -1,13 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="talkSPORT" group-title="Sports",talkSPORT
-https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/
-TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
+https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CNN" group-title="News", CNN
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 
 #EXTINF:-1 tvg-name="Fox News" group-title="News", Fox News
- "https://e1.thetvapp.to/hls/FoxNewsChannel/tracks-v1a1/mono.m3u8?token=XpqEjIKfBGoidmcfBHw-Mg&expires=1758671868&user_id=ODYuMjYuMTYyLjk5
+https://e1.thetvapp.to/hls/FoxNewsChannel/tracks-v1a1/mono.m3u8?token=XpqEjIKfBGoidmcfBHw-Mg&expires=1758671868&user_id=ODYuMjYuMTYyLjk5
 
 #EXTINF:-1 tvg-name="Al Jazeera English" group-title="News", Al Jazeera English
 https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
@@ -23,9 +22,6 @@ https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/8b7334e
 
 #EXTINF:-1 tvg-name="ABC" group-title="General", ABC News
 https://content-aeui1.uplynk.com/channel/640a5a594b434c2691e20580afda564f/g.m3u8?pbs=aaac46b1ec684fadacdf7889bd01ee54
-
-#EXTINF:-1 tvg-name="MSNBC" group-title="News", MSNBC
-https://cdn.livenewsplayer.com/hls/msnbcsd/msnbcsd/playlist.m3u8?newzstarttime=1748894318&newzendtime=1748901518&newzhash=GpB4u2-aOQmV93I7dUzCHUHUR64hyUAitdzxqqYaaTr9oneBVRN2DdG9CuRvgAAiAL4rH-VemNeS-0QlwrEEQQ==
 
 #EXTINF:-1 tvg-id="",Bloomberg TV+ UHD (2160p)
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/manifest/playlist.m3u8
@@ -64,10 +60,10 @@ https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 https://fl3.moveonjoy.com/National_Geographic/index.m3u8
 
 #EXTINF:-1 tvg-id="",Fox Sports
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54
 
 #EXTINF:-1 tvg-id="ParamountMovieChannel.us",Paramount Movie Channel
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
 
 #EXTINF:-1 tvg-id="Reuters TV",Reuters TV
 https://d2kjqd7acfrwt3.cloudfront.net/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
