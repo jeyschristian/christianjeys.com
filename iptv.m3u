@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="talkSPORT" group-title="Sports",talkSPORT
+https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/
+TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CNN" group-title="News", CNN
+https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
+
+#EXTINF:-1 tvg-name="Fox News" group-title="News", Fox News
+ "https://e1.thetvapp.to/hls/FoxNewsChannel/tracks-v1a1/mono.m3u8?token=XpqEjIKfBGoidmcfBHw-Mg&expires=1758671868&user_id=ODYuMjYuMTYyLjk5
+
+#EXTINF:-1 tvg-name="Al Jazeera English" group-title="News", Al Jazeera English
+https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
+
+#EXTINF:-1 tvg-name="Russia Today" group-title="News", Russia Today
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+
+#EXTINF:-1 tvg-name="CGTN" group-title="News", CGTN
+https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+
+#EXTINF:-1 tvg-name="CBS News" group-title="News", CBS News
+https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/8b7334ed-44be-4b18-ab94-595ca708a1f4:GRQ/variant/df9d5f9fc8201f0878fd4a77927eea3b/bandwidth/3016996.m3u8
+
+#EXTINF:-1 tvg-name="ABC" group-title="General", ABC News
+https://content-aeui1.uplynk.com/channel/640a5a594b434c2691e20580afda564f/g.m3u8?pbs=aaac46b1ec684fadacdf7889bd01ee54
+
+#EXTINF:-1 tvg-name="MSNBC" group-title="News", MSNBC
+https://cdn.livenewsplayer.com/hls/msnbcsd/msnbcsd/playlist.m3u8?newzstarttime=1748894318&newzendtime=1748901518&newzhash=GpB4u2-aOQmV93I7dUzCHUHUR64hyUAitdzxqqYaaTr9oneBVRN2DdG9CuRvgAAiAL4rH-VemNeS-0QlwrEEQQ==
+
+#EXTINF:-1 tvg-id="",Bloomberg TV+ UHD (2160p)
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.us",Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+
+#EXTINF:-1 tvg-id="NBC.us",NBC
+https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
+
+#EXTINF:-1 tvg-id="TrueCrimeNetwork.us@SD",True Crime Network
+https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-truecrimenetwork/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCEarth.uk@US",BBC Earth (1080p)
+https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",BBC Top Gear (1080p)
+https://amg00793-amg00793c5-firetv-us-4068.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CSPAN.us",C-SPAN
+https://fl7.moveonjoy.com/C-SPAN/index.m3u8
+
+#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us",CBS Sports Network USA
+https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="CNBC.us",CNBC
+https://fl3.moveonjoy.com/CNBC/index.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentral.us@East",Comedy Central East (720p)
+https://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+
+#EXTINF:-1 tvg-id="ParamountNetwork.us@East",Paramount Network East
+https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.us@East",National Geographic East
+https://fl3.moveonjoy.com/National_Geographic/index.m3u8
+
+#EXTINF:-1 tvg-id="",Fox Sports
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54
+
+#EXTINF:-1 tvg-id="ParamountMovieChannel.us",Paramount Movie Channel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
+
+#EXTINF:-1 tvg-id="Reuters TV",Reuters TV
+https://d2kjqd7acfrwt3.cloudfront.net/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Euronews English",Euronews English
+https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8
+
+#EXTINF:-1 tvg-id="DW News English",DW News English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+
+#EXTINF:-1 tvg-id="IRINN",IRINN
+https://lenz.splus.ir/PLTV/88888888/224/3221226142/index.m3u8
+
+#EXTINF:-1 tvg-id="KCNA",KCNA
+https://tv.intchoson.com/kctv/main_stream.m3u8"
